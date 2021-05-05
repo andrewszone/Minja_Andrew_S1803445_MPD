@@ -1,4 +1,5 @@
 //S1803445
+//Andrew Minja
 package org.me.gcu.models;
 
 import android.os.Parcel;
