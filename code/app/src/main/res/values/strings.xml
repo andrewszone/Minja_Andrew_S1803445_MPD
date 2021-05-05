@@ -1,5 +1,6 @@
 <resources>
     <!-- //S1803445-->
+    <!-- //Andrew Minja-->
     <string name="app_name">gcu</string>
     <string name="read_more">Read More</string>
     <string name="sort_by_date">Sort by Date</string>
