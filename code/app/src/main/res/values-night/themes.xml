@@ -1,5 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- //S1803445-->
+    <!-- //Andrew Minja-->
     <!-- Base application theme. -->
     <style name="Theme.EarthQuake" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         <!-- Primary brand color. -->
