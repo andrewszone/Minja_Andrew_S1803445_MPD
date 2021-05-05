@@ -1,0 +1,239 @@
+<rss xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>Recent UK earthquakes</title>
+        <link>http://earthquakes.bgs.ac.uk/</link>
+        <description>Recent UK seismic events recorded by the BGS Seismology team</description>
+        <language>en-gb</language>
+        <lastBuildDate>Thu, 11 Mar 2021 03:40:00</lastBuildDate>
+        <image>
+            <title>BGS Logo</title>
+            <url>http://www.bgs.ac.uk/images/logos/bgs_c_w_227x50.gif</url>
+            <link>http://earthquakes.bgs.ac.uk/</link>
+        </image>
+        <item>
+            <title>UK Earthquake alert : M 1.8 :CENTRAL NORTH SEA, Mon, 08 Mar 2021 17:35:27</title>
+            <description>Origin date/time: Mon, 08 Mar 2021 17:35:27 ; Location: CENTRAL NORTH SEA ; Lat/long: 56.114,-2.288 ; Depth: 4 km ; Magnitude: 1.8</description>
+            <link>http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20210308173420.html</link>
+            <pubDate>Mon, 08 Mar 2021 17:35:27</pubDate>
+            <category>EQUK</category>
+            <geo:lat>56.114</geo:lat>
+            <geo:long>-2.288</geo:long>
+        </item>
+        <item>
+            <title>UK Earthquake alert : M 0.3 :SOLWAY FIRTH, Wed, 03 Mar 2021 01:54:18</title>
+            <description>Origin date/time: Wed, 03 Mar 2021 01:54:18 ; Location: SOLWAY FIRTH ; Lat/long: 54.816,-3.667 ; Depth: 8 km ; Magnitude: 0.3</description>
+            <link>http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20210303015309.html</link>
+            <pubDate>Wed, 03 Mar 2021 01:54:18</pubDate>
+            <category>EQUK</category>
+            <geo:lat>54.816</geo:lat>
+            <geo:long>-3.667</geo:long>
+        </item>
+        <item>
+            <title>UK Earthquake alert : M 1.1 :THRIMBY,CUMBRIA, Tue, 02 Mar 2021 19:35:03</title>
+            <description>Origin date/time: Tue, 02 Mar 2021 19:35:03 ; Location: THRIMBY,CUMBRIA ; Lat/long: 54.576,-2.694 ; Depth: 2 km ; Magnitude: 1.1</description>
+            <link>http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20210302193359.html</link>
+            <pubDate>Tue, 02 Mar 2021 19:35:03</pubDate>
+            <category>EQUK</category>
+            <geo:lat>54.576</geo:lat>
+            <geo:long>-2.694</geo:long>
+        </item>
+        <item>
+            <title>UK Earthquake alert : M 0.6 :KERRERA,ARGYLL AND BUTE, Fri, 26 Feb 2021 03:57:55</title>
+            <description>Origin date/time: Fri, 26 Feb 2021 03:57:55 ; Location: KERRERA,ARGYLL AND BUTE ; Lat/long: 56.389,-5.544 ; Depth: 6 km ; Magnitude: 0.6</description>
+            <link>http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20210226035730.html</link>
+            <pubDate>Fri, 26 Feb 2021 03:57:55</pubDate>
+            <category>EQUK</category>
+            <geo:lat>56.389</geo:lat>
+            <geo:long>-5.544</geo:long>
+        </item>
+        <item>
+            <title>UK Earthquake alert : M 1.2 :BRIGG,NORTH LINCS, Tue, 23 Feb 2021 02:42:26</title>
+            <description>Origin date/time: Tue, 23 Feb 2021 02:42:26 ; Location: BRIGG,NORTH LINCS ; Lat/long: 53.540,-0.436 ; Depth: 16 km ; Magnitude: 1.2</description>
+            <link>http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20210223024128.html</link>
+            <pubDate>Tue, 23 Feb 2021 02:42:26</pubDate>
+            <category>EQUK</category>
+            <geo:lat>53.540</geo:lat>
+            <geo:long>-0.436</geo:long>
+        </item>
+        <item>
+            <title>UK Earthquake alert : M 1.2 :BOHUNTINE,HIGHLAND, Sun, 21 Feb 2021 22:13:42</title>
+            <description>Origin date/time: Sun, 21 Feb 2021 22:13:42 ; Location: BOHUNTINE,HIGHLAND ; Lat/long: 56.964,-4.769 ; Depth: 7 km ; Magnitude: 1.2</description>
+            <link>http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20210221221229.html</link>
+            <pubDate>Sun, 21 Feb 2021 22:13:42</pubDate>
+            <category>EQUK</category>
+            <geo:lat>56.964</geo:lat>
+            <geo:long>-4.769</geo:long>
+        </item>
+        <item>
+            <title>UK Earthquake alert : M 0.7 :WINCHAM,CHESHIRE, Mon, 15 Feb 2021 06:13:37</title>
+            <description>Origin date/time: Mon, 15 Feb 2021 06:13:37 ; Location: WINCHAM,CHESHIRE ; Lat/long: 53.277,-2.475 ; Depth: 11 km ; Magnitude: 0.7</description>
+            <link>http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20210215061300.html</link>
+            <pubDate>Mon, 15 Feb 2021 06:13:37</pubDate>
+            <category>EQUK</category>
+            <geo:lat>53.277</geo:lat>
+            <geo:long>-2.475</geo:long>
+        </item>
+        <item>
+            <title>UK Earthquake alert : M 1.2 :SAWTRY,CAMBRIDGESHIRE, Mon, 15 Feb 2021 05:46:42</title>
+            <description>Origin date/time: Mon, 15 Feb 2021 05:46:42 ; Location: SAWTRY,CAMBRIDGESHIRE ; Lat/long: 52.430,-0.243 ; Depth: 7 km ; Magnitude: 1.2</description>
+            <link>http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20210215054620.html</link>
+            <pubDate>Mon, 15 Feb 2021 05:46:42</pubDate>
+            <category>EQUK</category>
+            <geo:lat>52.430</geo:lat>
+            <geo:long>-0.243</geo:long>
+        </item>
+        <item>
+            <title>UK Earthquake alert : M 1.0 :JERSEY,CHANNEL ISLANDS, Sun, 14 Feb 2021 12:01:34</title>
+            <description>Origin date/time: Sun, 14 Feb 2021 12:01:34 ; Location: JERSEY,CHANNEL ISLANDS ; Lat/long: 49.140,-2.407 ; Depth: 14 km ; Magnitude: 1.0</description>
+            <link>http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20210214120100.html</link>
+            <pubDate>Sun, 14 Feb 2021 12:01:34</pubDate>
+            <category>EQUK</category>
+            <geo:lat>49.140</geo:lat>
+            <geo:long>-2.407</geo:long>
+        </item>
+        <item>
+            <title>UK Earthquake alert : M 3.1 :CENTRAL NORTH SEA, Sun, 14 Feb 2021 09:04:13</title>
+            <description>Origin date/time: Sun, 14 Feb 2021 09:04:13 ; Location: CENTRAL NORTH SEA ; Lat/long: 57.027,1.840 ; Depth: 9 km ; Magnitude: 3.1</description>
+            <link>http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20210214090306.html</link>
+            <pubDate>Sun, 14 Feb 2021 09:04:13</pubDate>
+            <category>EQUK</category>
+            <geo:lat>57.027</geo:lat>
+            <geo:long>1.840</geo:long>
+        </item>
+        <item>
+            <title>UK Earthquake alert : M 0.6 :STRONTIAN,HIGHLAND, Sun, 14 Feb 2021 02:10:29</title>
+            <description>Origin date/time: Sun, 14 Feb 2021 02:10:29 ; Location: STRONTIAN,HIGHLAND ; Lat/long: 56.681,-5.691 ; Depth: 7 km ; Magnitude: 0.6</description>
+            <link>http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20210214021001.html</link>
+            <pubDate>Sun, 14 Feb 2021 02:10:29</pubDate>
+            <category>EQUK</category>
+            <geo:lat>56.681</geo:lat>
+            <geo:long>-5.691</geo:long>
+        </item>
+        <item>
+            <title>UK Earthquake alert : M 0.6 :GLENBRECK,BORDERS, Fri, 12 Feb 2021 04:27:13</title>
+            <description>Origin date/time: Fri, 12 Feb 2021 04:27:13 ; Location: GLENBRECK,BORDERS ; Lat/long: 55.432,-3.432 ; Depth: 8 km ; Magnitude: 0.6</description>
+            <link>http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20210212042640.html</link>
+            <pubDate>Fri, 12 Feb 2021 04:27:13</pubDate>
+            <category>EQUK</category>
+            <geo:lat>55.432</geo:lat>
+            <geo:long>-3.432</geo:long>
+        </item>
+        <item>
+            <title>UK Earthquake alert : M 0.6 :BEARSDEN,E DUNB'SHIRE, Fri, 12 Feb 2021 03:48:51</title>
+            <description>Origin date/time: Fri, 12 Feb 2021 03:48:51 ; Location: BEARSDEN,E DUNB'SHIRE ; Lat/long: 55.916,-4.348 ; Depth: 5 km ; Magnitude: 0.6</description>
+            <link>http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20210212034726.html</link>
+            <pubDate>Fri, 12 Feb 2021 03:48:51</pubDate>
+            <category>EQUK</category>
+            <geo:lat>55.916</geo:lat>
+            <geo:long>-4.348</geo:long>
+        </item>
+        <item>
+            <title>UK Earthquake alert : M 2.1 :DIABAIG,HIGHLAND, Mon, 08 Feb 2021 05:42:37</title>
+            <description>Origin date/time: Mon, 08 Feb 2021 05:42:37 ; Location: DIABAIG,HIGHLAND ; Lat/long: 57.617,-5.568 ; Depth: 2 km ; Magnitude: 2.1</description>
+            <link>http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20210208054119.html</link>
+            <pubDate>Mon, 08 Feb 2021 05:42:37</pubDate>
+            <category>EQUK</category>
+            <geo:lat>57.617</geo:lat>
+            <geo:long>-5.568</geo:long>
+        </item>
+        <item>
+            <title>UK Earthquake alert : M 0.7 :DOCKRAY,CUMBRIA, Sat, 06 Feb 2021 20:28:28</title>
+            <description>Origin date/time: Sat, 06 Feb 2021 20:28:28 ; Location: DOCKRAY,CUMBRIA ; Lat/long: 54.571,-2.938 ; Depth: 7 km ; Magnitude: 0.7</description>
+            <link>http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20210206202702.html</link>
+            <pubDate>Sat, 06 Feb 2021 20:28:28</pubDate>
+            <category>EQUK</category>
+            <geo:lat>54.571</geo:lat>
+            <geo:long>-2.938</geo:long>
+        </item>
+        <item>
+            <title>UK Earthquake alert : M 0.5 :RHAYADER,POWYS, Wed, 03 Feb 2021 07:27:24</title>
+            <description>Origin date/time: Wed, 03 Feb 2021 07:27:24 ; Location: RHAYADER,POWYS ; Lat/long: 52.334,-3.609 ; Depth: 10 km ; Magnitude: 0.5</description>
+            <link>http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20210203072701.html</link>
+            <pubDate>Wed, 03 Feb 2021 07:27:24</pubDate>
+            <category>EQUK</category>
+            <geo:lat>52.334</geo:lat>
+            <geo:long>-3.609</geo:long>
+        </item>
+        <item>
+            <title>UK Earthquake alert : M 1.9 :LLANVEYNOE,HEREF, Mon, 01 Feb 2021 18:05:16</title>
+            <description>Origin date/time: Mon, 01 Feb 2021 18:05:16 ; Location: LLANVEYNOE,HEREF ; Lat/long: 51.961,-3.043 ; Depth: 13 km ; Magnitude: 1.9</description>
+            <link>http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20210201180416.html</link>
+            <pubDate>Mon, 01 Feb 2021 18:05:16</pubDate>
+            <category>EQUK</category>
+            <geo:lat>51.961</geo:lat>
+            <geo:long>-3.043</geo:long>
+        </item>
+        <item>
+            <title>UK Earthquake alert : M 1.3 :ISLEHAM,CAMBRIDGESHIRE, Sun, 31 Jan 2021 08:59:12</title>
+            <description>Origin date/time: Sun, 31 Jan 2021 08:59:12 ; Location: ISLEHAM,CAMBRIDGESHIRE ; Lat/long: 52.368,0.426 ; Depth: 4 km ; Magnitude: 1.3</description>
+            <link>http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20210131085900.html</link>
+            <pubDate>Sun, 31 Jan 2021 08:59:12</pubDate>
+            <category>EQUK</category>
+            <geo:lat>52.368</geo:lat>
+            <geo:long>0.426</geo:long>
+        </item>
+        <item>
+            <title>UK Earthquake alert : M 0.4 :MASONGILL,N YORKSHIRE, Sat, 30 Jan 2021 21:42:32</title>
+            <description>Origin date/time: Sat, 30 Jan 2021 21:42:32 ; Location: MASONGILL,N YORKSHIRE ; Lat/long: 54.196,-2.481 ; Depth: 5 km ; Magnitude: 0.4</description>
+            <link>http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20210130214200.html</link>
+            <pubDate>Sat, 30 Jan 2021 21:42:32</pubDate>
+            <category>EQUK</category>
+            <geo:lat>54.196</geo:lat>
+            <geo:long>-2.481</geo:long>
+        </item>
+        <item>
+            <title>UK Earthquake alert : M 0.7 :MULL,ARGYLL AND BUTE, Sat, 30 Jan 2021 10:03:04</title>
+            <description>Origin date/time: Sat, 30 Jan 2021 10:03:04 ; Location: MULL,ARGYLL AND BUTE ; Lat/long: 56.405,-5.668 ; Depth: 2 km ; Magnitude: 0.7</description>
+            <link>http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20210130100240.html</link>
+            <pubDate>Sat, 30 Jan 2021 10:03:04</pubDate>
+            <category>EQUK</category>
+            <geo:lat>56.405</geo:lat>
+            <geo:long>-5.668</geo:long>
+        </item>
+        <item>
+            <title>UK Earthquake alert : M 0.6 :KEGWORTH,LEICESTERSHIRE, Fri, 29 Jan 2021 10:37:54</title>
+            <description>Origin date/time: Fri, 29 Jan 2021 10:37:54 ; Location: KEGWORTH,LEICESTERSHIRE ; Lat/long: 52.833,-1.301 ; Depth: 14 km ; Magnitude: 0.6</description>
+            <link>http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20210129103730.html</link>
+            <pubDate>Fri, 29 Jan 2021 10:37:54</pubDate>
+            <category>EQUK</category>
+            <geo:lat>52.833</geo:lat>
+            <geo:long>-1.301</geo:long>
+        </item>
+        <item>
+            <title>UK Earthquake alert : M 0.6 :KINTYRE,ARGYLL AND BUTE, Tue, 26 Jan 2021 06:11:32</title>
+            <description>Origin date/time: Tue, 26 Jan 2021 06:11:32 ; Location: KINTYRE,ARGYLL AND BUTE ; Lat/long: 55.464,-5.950 ; Depth: 7 km ; Magnitude: 0.6</description>
+            <link>http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20210126061100.html</link>
+            <pubDate>Tue, 26 Jan 2021 06:11:32</pubDate>
+            <category>EQUK</category>
+            <geo:lat>55.464</geo:lat>
+            <geo:long>-5.950</geo:long>
+        </item>
+        <item>
+            <title>UK Earthquake alert : M 1.0 :BORELAND,D AND G, Mon, 25 Jan 2021 13:06:50</title>
+            <description>Origin date/time: Mon, 25 Jan 2021 13:06:50 ; Location: BORELAND,D AND G ; Lat/long: 55.186,-3.181 ; Depth: 10 km ; Magnitude: 1.0</description>
+            <link>http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20210125130551.html</link>
+            <pubDate>Mon, 25 Jan 2021 13:06:50</pubDate>
+            <category>EQUK</category>
+            <geo:lat>55.186</geo:lat>
+            <geo:long>-3.181</geo:long>
+        </item>
+        <item>
+            <title>UK Earthquake alert : M 1.4 :WELSHPOOL,POWYS, Fri, 22 Jan 2021 07:05:45</title>
+            <description>Origin date/time: Fri, 22 Jan 2021 07:05:45 ; Location: WELSHPOOL,POWYS ; Lat/long: 52.663,-3.170 ; Depth: 9 km ; Magnitude: 1.4</description>
+            <link>http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20210122070437.html</link>
+            <pubDate>Fri, 22 Jan 2021 07:05:45</pubDate>
+            <category>EQUK</category>
+            <geo:lat>52.663</geo:lat>
+            <geo:long>-3.170</geo:long>
+        </item>
+        <item>
+            <title>UK Earthquake alert : M 1.9 :KNUTSFORD,CHESHIRE, Wed, 20 Jan 2021 08:55:31</title>
+            <description>Origin date/time: Wed, 20 Jan 2021 08:55:31 ; Location: KNUTSFORD,CHESHIRE ; Lat/long: 53.302,-2.405 ; Depth: 15 km ; Magnitude: 1.9</description>
+            <link>http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20210120085530.html</link>
+            <pubDate>Wed, 20 Jan 2021 08:55:31</pubDate>
+            <category>EQUK</category>
+            <geo:lat>53.302</geo:lat>
+            <geo:long>-2.405</geo:long>
+        </item>
+    </channel>
+</rss>

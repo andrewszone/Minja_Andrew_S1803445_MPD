@@ -1,0 +1,7 @@
+<resources>
+    <!-- //S1803445-->
+    <string name="app_name">gcu</string>
+    <string name="read_more">Read More</string>
+    <string name="sort_by_date">Sort by Date</string>
+    <string name="sort_by_range">Sort by Range</string>
+</resources>
